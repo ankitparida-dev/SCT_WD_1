@@ -4,9 +4,9 @@ const Hero = () => {
   const [currentImage, setCurrentImage] = useState(0)
   
   const heroImages = [
-    'https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=1200',
-    'https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1200',
-    'https://images.unsplash.com/photo-1624526267942-ab0a983302e3?w=1200'
+    'https://cdn.wionews.com/sites/default/files/2023/11/19/394159-1-2023-11-19t231932341.png',
+    'https://www.jansatta.com/wp-content/uploads/2025/06/Players-of-South-Africa-lift-the-mace-after-winning-the-ICC-World-Test-Championship-Final-2025.jpg',
+    'https://gknow.in/wp-content/uploads/2026/03/India-Wins-ICC-Men-T20-Cricket-World-Cup-Title-1.jpg'
   ]
 
   useEffect(() => {
@@ -53,7 +53,7 @@ const Hero = () => {
         
         <div className="hero-stats" data-aos="fade-up" data-aos-delay="300">
           <div className="stat">
-            <div className="stat-number">13</div>
+            <div className="stat-number">3</div>
             <div className="stat-label">World Cups</div>
           </div>
           <div className="stat">

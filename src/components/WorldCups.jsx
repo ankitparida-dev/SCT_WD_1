@@ -4,29 +4,29 @@ const WorldCups = () => {
   const tournaments = [
     { 
       title: "ODI World Cup", 
-      years: "1975-2023", 
+      years: "1975-Present", 
       editions: "13 Editions", 
       icon: "fa-baseball-ball", 
       color: "#e74c3c",
-      image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=400",
+      image: "https://tse2.mm.bing.net/th/id/OIP.FugH7uAXOBLXZzDZblKs-QHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
       description: "The pinnacle of ODI cricket"
     },
     { 
       title: "T20 World Cup", 
-      years: "2007-2024", 
-      editions: "8 Editions", 
+      years: "2007-Present", 
+      editions: "10 Editions", 
       icon: "fa-bolt", 
       color: "#f39c12",
-      image: "https://images.unsplash.com/photo-1624526267942-ab0a983302e3?w=400",
+      image: "https://www.newsband.in/uploads/blog_main_img/2b4e0b9b5d05c3228f12d323ad9e8997_1.jpg",
       description: "Fast-paced excitement"
     },
     { 
-      title: "Test Championship", 
+      title: "World Test Championship", 
       years: "2019-Present", 
-      editions: "2 Editions", 
+      editions: "4 Editions", 
       icon: "fa-shield-alt", 
       color: "#27ae60",
-      image: "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=400",
+      image: "https://tse2.mm.bing.net/th/id/OIP.qReO9-CeB4v0goQ-EeYQugHaEJ?rs=1&pid=ImgDetMain&o=7&rm=3",
       description: "Ultimate test of skill"
     }
   ]
